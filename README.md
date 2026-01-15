@@ -3,9 +3,7 @@
 
 - 📋 My name is João, but you can call me Ran!
 - ⭐ Fun fact: My name "Ran" originates from a Greek goddess in Norse mythology.
-- 🌐 Visit my website to learn more about me. 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fran-portifolio.netlify.app%2F&up_message=ran&style=social&logo=devbox)
-
+- 🌐 Visit my website to learn more about me. [Website](https://ran-portifolio.netlify.app/) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fran-portifolio.netlify.app%2F&up_message=ran&style=social&logo=devbox)
 ## 📚 Skills
 
 ### Languages
